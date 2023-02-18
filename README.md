@@ -1,2 +1,2 @@
-# LearingC-
+# LearingCodes
 Student C# exemple codes.
